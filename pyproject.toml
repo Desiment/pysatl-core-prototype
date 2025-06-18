@@ -44,6 +44,3 @@ ignore = ["PLR0913"]
 files = "pysatl_core"
 mypy_path = "pysatl_core"
 strict = true
-
-
-
